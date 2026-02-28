@@ -2,6 +2,8 @@ financial-pulse-ai : Financial Anomaly Detection Suite
 
 AI Market Sentinel is a high-performance quantitative analysis dashboard built to detect irregularities in financial markets. By combining Unsupervised Machine Learning (Isolation Forest) with Classical Statistics (Z-Score), the system provides a multi-layered "Sentinel" approach to risk monitoring.
 
+live app:https://financial-pulse-ai-gw7zhtzqzfkqjawlegj22d.streamlit.app/
+
 🚀 Key Features:
 
 Hybrid Anomaly Detection: Integrated logic that identifies patterns using AI while validating spikes via standard deviations.
