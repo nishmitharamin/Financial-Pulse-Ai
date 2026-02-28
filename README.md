@@ -49,6 +49,15 @@ pip install streamlit pandas yfinance scikit-learn plotly fastapi uvicorn
 
 Install dependencies:pip install -r requirements.txt
 
+mkdir data
+mkdir src
+mkdir assets
+mkdir tests
+mkdir .github
+mkdir .github\workflows
+type nul > src\__init__.py
+type nul > tests\__init__.py
+
 Run the Application:streamlit run app.py
 
 📊 Scientific Methodology:
