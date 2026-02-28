@@ -33,12 +33,20 @@ pandas & numpy: For complex data manipulation and array math.plotly: For interac
 
 scikit-learn: Specifically the IsolationForest model for unsupervised ML.
 
-🔧Installation & SetupClone the repository:git clone https://github.com/nishmitharamin/financial-pulse-ai.git
+🔧Installation & SetupClone the repository:
+
+git clone https://github.com/nishmitharamin/financial-pulse-ai.git
+
 mkdir financial_pulse
+
 cd financial_pulse
+
 python -m venv venv
+
 pip install streamlit pandas yfinance scikit-learn plotly fastapi uvicorn
+
 Install dependencies:pip install -r requirements.txt
+
 Run the Application:streamlit run app.py
 
 📊 Scientific Methodology:
